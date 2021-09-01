@@ -1,1 +1,1 @@
-#Criando nosso primeiro script em Shell
+Criando nosso primeiro script em Shell
